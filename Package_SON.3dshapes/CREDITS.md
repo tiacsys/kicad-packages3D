@@ -42,3 +42,10 @@ CadQuery 1.0.0.1
 
 WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm
 
+Parameters in script:
+https://github.com/easyw/kicad-3d-models-in-freecad/pull/409
+FreeCAD 0.19 R23462
+StepUp 59e5ce8
+CadQuery 1.2.0
+
+USON-14_3.5x1.35mm_Pitch0.5mm
