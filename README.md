@@ -41,6 +41,20 @@ The 3D models in this library are aligned with the footprints available in the K
 ## Model Licencing
 Refer to the LICENSE.md file
 
+## Generating model list
+
+For pruning models from footprints when the model doesn't exist in this library, a list of models
+can be generated:
+
+```
+mkdir build
+cd build
+cmake ..
+make list_models
+```
+
+The model list will be at `model_names.txt`
+
 ## External Model Libraries
 In addition to the 3D model data provided in this library, there are other sources that designers may use to source 3D models.
 
