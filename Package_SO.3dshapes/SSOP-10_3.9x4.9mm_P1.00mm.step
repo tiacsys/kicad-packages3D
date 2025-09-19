@@ -31,6 +31,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'SSOP-10_3.9x4.9mm_P1.00mm.step',
+/* time_stamp */ '1970-01-01T00:00:00',
 /* author */ ('KiCAD','kicad'),
 /* organization */ ('OCCT'),
 /* preprocessor_version */ '',

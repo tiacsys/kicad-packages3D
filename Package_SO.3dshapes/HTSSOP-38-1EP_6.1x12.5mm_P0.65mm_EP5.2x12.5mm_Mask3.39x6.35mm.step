@@ -31,6 +31,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm.step',
+/* time_stamp */ '1970-01-01T00:00:00',
 /* author */ ('KiCAD','kicad'),
 /* organization */ ('OCCT'),
 /* preprocessor_version */ '',

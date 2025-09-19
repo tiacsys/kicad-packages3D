@@ -31,6 +31,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'DSUB-9_Pins_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.step',
+/* time_stamp */ '1970-01-01T00:00:00',
 /* author */ ('KiCAD','kicad'),
 /* organization */ ('OCCT'),
 /* preprocessor_version */ '',

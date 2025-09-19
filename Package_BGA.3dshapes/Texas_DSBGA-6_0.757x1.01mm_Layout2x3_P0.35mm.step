@@ -31,6 +31,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Texas_DSBGA-6_0.757x1.01mm_Layout2x3_P0.35mm.step',
+/* time_stamp */ '1970-01-01T00:00:00',
 /* author */ ('KiCAD','kicad'),
 /* organization */ ('OCCT'),
 /* preprocessor_version */ '',

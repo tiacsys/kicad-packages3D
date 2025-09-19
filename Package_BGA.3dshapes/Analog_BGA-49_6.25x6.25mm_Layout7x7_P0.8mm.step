@@ -31,6 +31,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Analog_BGA-49_6.25x6.25mm_Layout7x7_P0.8mm.step',
+/* time_stamp */ '1970-01-01T00:00:00',
 /* author */ ('KiCAD','kicad'),
 /* organization */ ('OCCT'),
 /* preprocessor_version */ '',
