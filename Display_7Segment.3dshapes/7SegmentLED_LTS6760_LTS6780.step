@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
-'7SegmentLED_LTS6760_LTS6780',('kicad StepUp'),('ksu MCAD'),
+'7SegmentLED_LTS6760_LTS6780','2018-11-10T09:11:43',('kicad StepUp'),('ksu MCAD'),
   'Open CASCADE STEP processor 7.1','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
 ENDSEC;
