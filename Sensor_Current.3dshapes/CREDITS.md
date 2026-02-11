@@ -12,7 +12,7 @@ Please fill all 3D models credits and info source data accordingly.
 
 ### Hall-Effect_Transducers_LEM.3dshapes
 
-#### LEM-HO-NP.step and LEM-HO-NP.wrl
+#### LEM-HO-NP.step
 
 main author: Rene Pöschl
 
@@ -20,7 +20,7 @@ release version of sw used to create models:
 - FreeCAD 0.17
 - KiCad Stepup
 
-#### LEM_LV25-P.step and LEM_LV25-P.wrl
+#### LEM_LV25-P.step
 
 main author: Stefan Olsson
 

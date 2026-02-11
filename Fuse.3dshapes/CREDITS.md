@@ -10,7 +10,7 @@ Please fill all 3D models credits and info source data accordingly.
 
 ### Fuse_Holders_and_Fuses.3dshapes
 
-#### Fuseholder_Cylinder-5x20mm-or-6.3x32mm_Schurter_FUP_0031.25x0_Horizontal_Closed.step and Fuseholder_Cylinder-5x20mm-or-6.3x32mm_Schurter_FUP_0031.25x0_Horizontal_Closed.wrl
+#### Fuseholder_Cylinder-5x20mm-or-6.3x32mm_Schurter_FUP_0031.25x0_Horizontal_Closed.step
 main author: Rene Pöschl
 release version of sw used to create models:  
 - FreeCAD 0.17

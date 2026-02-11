@@ -11,7 +11,7 @@ Please fill all 3D models credits and info source data accordingly.
 <hr>  
 
 #### SW_SPDT_PCM12 and SW_SP3T_PCM13
-STEP and WRL models designed by Stefan Olsson
+STEP  models designed by Stefan Olsson
 Author:	Stefan Olsson
 Tool:	- FreeCAD 0.17 Build 11223 64 bit Microsoft windwos platform https://www.freecadweb.org/
 

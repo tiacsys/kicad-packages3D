@@ -14,21 +14,21 @@ Please fill all 3D models credits and info source data accordingly.
 
 #### PicoBlade 53261 and 53398 series
 
-STEP and WRL models designed by poeschlr using CadQuery script by maurice and hyOzd
+STEP  models designed by poeschlr using CadQuery script by maurice and hyOzd
 - [molex](https://github.com/easyw/kicad-3d-models-in-freecad/tree/master/cadquery/FCAD_script_generator/molex)
 - FreeCAD 0.15 or 0.17 >= R10802
 - CadQuery 0.5.2
 
 #### KK 6410 series
 
-STEP and WRL models designed by hackscribble using modified version of CadQuery script by poeschlr, maurice and hyOzd
+STEP  models designed by hackscribble using modified version of CadQuery script by poeschlr, maurice and hyOzd
 - [Molex_6410](https://github.com/easyw/kicad-3d-models-in-freecad/tree/master/cadquery/FCAD_script_generator/Molex_6410)
 - FreeCAD 0.17 R10802
 - CadQuery 0.5.2
 
 #### SlimStack 54722 and 55560 series
 
-STEP and WRL models designed by hackscribble using modified version of CadQuery script by poeschlr, maurice and hyOzd
+STEP  models designed by hackscribble using modified version of CadQuery script by poeschlr, maurice and hyOzd
 - [Molex_54722](https://github.com/easyw/kicad-3d-models-in-freecad/tree/master/cadquery/FCAD_script_generator/Molex_54722)
 - [Molex_55560](https://github.com/easyw/kicad-3d-models-in-freecad/tree/master/cadquery/FCAD_script_generator/Molex_55560)
 - FreeCAD 0.17 R10887

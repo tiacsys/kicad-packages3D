@@ -11,6 +11,6 @@ Please fill all 3D models credits and info source data accordingly.
 <hr>
 
 #### most standard LED_...
-STEP and WRL models designed by Jan Krieger
+STEP  models designed by Jan Krieger
 Author:	Jan Krieger
 Tool:	- FreeCAD 0.16 Build 6712 64 bit Microsoft windwos platform https://www.freecadweb.org/
